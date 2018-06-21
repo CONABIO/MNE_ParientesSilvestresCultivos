@@ -25,4 +25,4 @@ Lamoreux, J. F., Wettengel, W. W., Hedao, P., Kassem, K. R. 2001. _Terrestrial
 ecoregions of the world: a new map of life on Earth_. **Bioscience** 51(11):933-938.
 URL: https://www.worldwildlife.org/publications/terrestrial-ecoregions-of-the-world
 
-![Logo-CONABIO](img/logo_conabio.jpg)
+![Logo-CONABIO](img/conabio.png)
