@@ -5,7 +5,7 @@ Juan M. Barrios  <jbarrios@conabio.gob.mx> para generar los modelos de nicho eco
 
 El código `MNE.R` utiliza bases de ocurrencia de PSCM en formato .csv descargadas del Sistema Nacional de Información sobre
 Biodiversidad de México [SNIB](http://www.snib.mx/datos) y de la plataforma [Global Biodiversity Information Facility](https://www.gbif.org/). 
-También utiliza 19 variables bioclimaticas descargadas de [Worldclim](http://worldclim.org/), versión 1.4 y el polígono de las [ecoregiones terrestres](https://www.worldwildlife.org/publications/terrestrial-ecoregions-of-the-world) propuestas por Olson et al. (2001) 
+También utiliza 19 variables bioclimaticas descargadas de [Worldclim](http://worldclim.org/) versión 1.4 (Hijmans et al. 2005) y el polígono de las [ecoregiones terrestres](https://www.worldwildlife.org/publications/terrestrial-ecoregions-of-the-world) propuestas por Olson et al. (2001) 
 
 
 ###### Referencias
