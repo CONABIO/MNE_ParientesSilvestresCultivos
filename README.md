@@ -3,9 +3,9 @@
 Este proyecto fue desarrollado por Angela P. Cuervo-Robayo <angela.cuervo@conabio.gob.mx> y 
 Juan M. Barrios  <jbarrios@conabio.gob.mx> para generar los modelos de nicho ecológico para el proyecto _Salvaguardando a los parientes silvestres de cultivos mesoamericanos (PSCM)_: http://www.psmesoamerica.org/es/  
 
-El código `MNE.R` utiliza la bases de ocurrencia de PSCM en formato .csv, descargadas del Sistema Nacional de Información sobre
-Biodiversidad de México [SNIB](http://www.snib.mx/datos) y de la plataforma [Global Biodiversity Information Facility](https://www.gbif.org/), 19 variables bioclimaticas http://worldclim.org/ y el polígono de ecoregiones terrestres 
-propuestas por Olson et al. en el 2001 https://www.worldwildlife.org/publications/terrestrial-ecoregions-of-the-world
+El código `MNE.R` utiliza bases de ocurrencia de PSCM en formato .csv descargadas del Sistema Nacional de Información sobre
+Biodiversidad de México [SNIB](http://www.snib.mx/datos) y de la plataforma [Global Biodiversity Information Facility](https://www.gbif.org/). 
+También utiliza 19 variables bioclimaticas descargadas de [Worldclima](http://worldclim.org/), versión 1.4 y el polígono de las [ecoregiones terrestres](https://www.worldwildlife.org/publications/terrestrial-ecoregions-of-the-world) propuestas por Olson et al. (2001) 
 
 
 ###### Referencias
