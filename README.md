@@ -18,6 +18,6 @@ Lamoreux, J. F., Wettengel, W. W., Hedao, P., Kassem, K. R. 2001. Terrestrial ec
 life on Earth. Bioscience 51(11):933-938.
 
 
-![alt text](https://github.com/CONABIO/MNE_ParientesSilvestresCultivos/blob/master/img/conabio.png"Logo Title Text 1")
+![alt text](https://github.com/CONABIO/MNE_ParientesSilvestresCultivos/blob/master/img/conabio.png" Logo Title Text 1")
 
 
