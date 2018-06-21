@@ -1,5 +1,3 @@
-![Logo-CONABIO](img/logo_conabio.jpg)
-
 # Modelos de nicho ecológico para parientes silvestres de cultivos
 
 Este proyecto fue desarrollado por Angela P. Cuervo-Robayo <angela.cuervo@conabio.gob.mx>
@@ -26,3 +24,5 @@ Morrison, J. C., Loucks, C. J., Allnutt, T. F., Ricketts, T. H., Kura, Y.,
 Lamoreux, J. F., Wettengel, W. W., Hedao, P., Kassem, K. R. 2001. _Terrestrial
 ecoregions of the world: a new map of life on Earth_. **Bioscience** 51(11):933-938.
 URL: https://www.worldwildlife.org/publications/terrestrial-ecoregions-of-the-world
+
+                              ![Logo-CONABIO](img/logo_conabio.jpg)
