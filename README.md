@@ -1,7 +1,7 @@
 # MNE_ParientesSilvestresCultivos
 
 Este proyecto fue desarrollado por Angela P. Cuervo-Robayo <angela.cuervo@conabio.gob.mx> y 
-Juan M. Barrios  <jbarrios@conabio.gob.mx> para generar los modelos de nicho ecológico para el proyecto ###Salvaguardando a los parientes silvestres de cultivos mesoamericanos (PSCM): http://www.psmesoamerica.org/es/  
+Juan M. Barrios  <jbarrios@conabio.gob.mx> para generar los modelos de nicho ecológico para el proyecto _Salvaguardando a los parientes silvestres de cultivos mesoamericanos (PSCM)_: http://www.psmesoamerica.org/es/  
 
 El código `MNE.R` utiliza las bases de ocurrencia de PSCM en formato .csv descargadas de http://www.snib.mx/datos y de
 https://www.gbif.org/, 19 variables bioclimaticas http://worldclim.org/ y el poligono de ecoregiones terrestres 
