@@ -4,7 +4,7 @@ Este proyecto fue desarrollado por Angela P. Cuervo-Robayo <angela.cuervo@conabi
 Juan M. Barrios  <jbarrios@conabio.gob.mx> para generar los modelos de nicho ecológico para el proyecto _Salvaguardando a los parientes silvestres de cultivos mesoamericanos (PSCM)_: http://www.psmesoamerica.org/es/  
 
 El código `MNE.R` utiliza la bases de ocurrencia de PSCM en formato .csv, descargadas del Sistema Nacional de Información sobre
-Biodiversidad de México [SNIB](http://www.snib.mx/datos) y de la plataforma [Global Biodiversity Information Facility](https://www.gbif.org/), 19 variables bioclimaticas http://worldclim.org/ y el poligono de ecoregiones terrestres 
+Biodiversidad de México [SNIB](http://www.snib.mx/datos) y de la plataforma [Global Biodiversity Information Facility](https://www.gbif.org/), 19 variables bioclimaticas http://worldclim.org/ y el polígono de ecoregiones terrestres 
 propuestas por Olson et al. en el 2001 https://www.worldwildlife.org/publications/terrestrial-ecoregions-of-the-world
 
 
@@ -17,7 +17,7 @@ D'Amico, J. A., Itoua, I., Strand, H. E., Morrison, J. C., Loucks, C. J., Allnut
 Lamoreux, J. F., Wettengel, W. W., Hedao, P., Kassem, K. R. 2001. Terrestrial ecoregions of the world: a new map of 
 life on Earth. Bioscience 51(11):933-938.
 
-[logo]: https://github.com/CONABIO/MNE_ParientesSilvestresCultivos/blob/master/img/conabio.png" "conabio"
+[logo]:https://github.com/CONABIO/MNE_ParientesSilvestresCultivos/blob/master/img/conabio.png" "conabio"
 
 
 
