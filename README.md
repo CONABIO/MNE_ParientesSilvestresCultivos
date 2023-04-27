@@ -3,7 +3,7 @@
 Este proyecto fue desarrollado por Angela P. Cuervo-Robayo <angela.cuervo@conabio.gob.mx>
 y  Juan M. Barrios <jbarrios@conabio.gob.mx> para generar los modelos de nicho
 ecológico para el proyecto [_Salvaguardando a los parientes silvestres de
-cultivos mesoamericanos (PSCM)_.]( http://www.psmesoamerica.org/es/)
+cultivos mesoamericanos (PSCM)_.](https://biodiversidad.gob.mx/diversidad/proyectos/psmesoamerica)
 
 El código `MNE.R` se utilizó para generar los modelos, usando los datos de
 ocurrencia de PSCM en formato .csv. Estos se descargaron del Sistema Nacional
